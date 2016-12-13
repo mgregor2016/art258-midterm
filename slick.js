@@ -47,6 +47,52 @@ $('.exit1').click(function(){
     $('.info1').hide();
 
 });
+
+$('.image1').click(function(){
+  $('.left').show();
+  $('.right').show();
+});
+
+$('.X5').click(function(){
+  $('.left').hide();
+  $('.right').hide();
+});
+$('.exit5').click(function(){
+  $('.left').hide();
+  $('.right').hide();
+
+});
+
+$('.image2').click(function(){
+  $('.left').show();
+  $('.right').show();
+});
+
+$('.X5').click(function(){
+  $('.left').hide();
+  $('.right').hide();
+});
+$('.exit5').click(function(){
+  $('.left').hide();
+  $('.right').hide();
+
+});
+
+$('.image3').click(function(){
+  $('.left').show();
+  $('.right').show();
+});
+
+$('.X5').click(function(){
+  $('.left').hide();
+  $('.right').hide();
+});
+$('.exit5').click(function(){
+  $('.left').hide();
+  $('.right').hide();
+  });
+
+
 /*$('.menu').click(function() {
   $(this).text("Close");
 });*/
